@@ -1,0 +1,486 @@
+year,home_team,month,day,attend,day_of_week,opponent,temp,skies,day_night,cap,shirt,fireworks,bobblehead
+2012,New York Mets,MAY,30,30064,Wednesday,Philadelphia Phillies,76,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,JUL,20,44572,Friday,Chicago White Sox,80,Clear,Night,NO,NO,YES,NO
+2012,Texas Rangers,SEP,26,46689,Wednesday,Oakland Athletics,89,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,MAY,18,34937,Friday,Chicago White Sox,76,Clear,Day,NO,NO,NO,NO
+2012,Seattle Mariners,JUL,15,27378,Sunday,Texas Rangers,65,Cloudy,Day,NO,NO,NO,NO
+2012,Boston Red Sox,JUL,17,37771,Tuesday,Chicago White Sox,89,Clear,Night,NO,NO,NO,NO
+2012,Cincinnati Reds,APR,28,32971,Saturday,Houston Astros,51,Cloudy,Day,NO,NO,NO,NO
+2012,Texas Rangers,MAY,26,47430,Saturday,Toronto Blue Jays,91,Cloudy,Day,NO,NO,NO,NO
+2012,New York Mets,JUN,24,42364,Sunday,New York Yankees,77,Cloudy,Night,YES,NO,NO,NO
+2012,Toronto Blue Jays,SEP,1,20478,Saturday,Tampa Bay Rays,73,Clear,Day,NO,NO,NO,NO
+2012,Chicago White Sox,JUN,9,22880,Saturday,Houston Astros,87,Clear,Day,NO,NO,NO,NO
+2012,Boston Red Sox,MAY,14,37334,Monday,Seattle Mariners,57,Cloudy,Night,NO,YES,NO,NO
+2012,Kansas City Royals,SEP,5,13354,Wednesday,Texas Rangers,91,Clear,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,AUG,15,33572,Wednesday,Arizona Diamondbacks,91,Clear,Night,NO,NO,NO,NO
+2012,Chicago White Sox,MAY,25,21371,Friday,Cleveland Indians,66,Clear,Night,NO,NO,YES,NO
+2012,Boston Red Sox,MAY,31,37629,Thursday,Detroit Tigers,76,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago Cubs,AUG,24,31255,Friday,Colorado Rockies,91,Cloudy,Day,YES,NO,NO,NO
+2012,Detroit Tigers,AUG,5,38007,Sunday,Cleveland Indians,82,Cloudy,Day,NO,NO,NO,NO
+2012,Texas Rangers,APR,6,49085,Friday,Chicago White Sox,75,Clear,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,MAY,29,51137,Tuesday,Milwaukee Brewers,74,Clear,Night,NO,NO,NO,YES
+2012,Cleveland Indians,SEP,14,17185,Friday,Detroit Tigers,63,Clear,Night,NO,NO,YES,NO
+2012,Tampa Bay Rays,AUG,23,11613,Thursday,Oakland Athletics,72,Dome,Night,NO,NO,NO,NO
+2012,Boston Red Sox,AUG,2,37191,Thursday,Minnesota Twins,84,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,AUG,18,42662,Saturday,New York Mets,81,Clear,Night,NO,NO,NO,NO
+2012,Cincinnati Reds,SEP,25,18155,Tuesday,Milwaukee Brewers,67,Cloudy,Night,NO,NO,NO,NO
+2012,New York Mets,APR,21,33844,Saturday,San Francisco Giants,67,Clear,Day,NO,NO,NO,NO
+2012,Chicago Cubs,JUL,30,33337,Monday,Pittsburgh Pirates,89,Cloudy,Night,NO,NO,NO,NO
+2012,Boston Red Sox,AUG,23,37829,Thursday,Los Angeles Angels,84,Cloudy,Night,NO,NO,NO,NO
+2012,Cincinnati Reds,JUN,7,23106,Thursday,Pittsburgh Pirates,83,Cloudy,Night,NO,NO,NO,NO
+2012,Kansas City Royals,AUG,2,15135,Thursday,Cleveland Indians,94,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,JUL,13,36878,Friday,Arizona Diamondbacks,81,Cloudy,Day,NO,NO,NO,NO
+2012,Chicago White Sox,MAY,13,22636,Sunday,Kansas City Royals,58,Cloudy,Day,NO,NO,NO,NO
+2012,St. Louis Cardinals,JUL,23,42806,Monday,Los Angeles Dodgers,103,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,AUG,12,24891,Sunday,Atlanta Braves,83,Cloudy,Night,NO,NO,NO,NO
+2012,Seattle Mariners,JUN,9,30287,Saturday,Los Angeles Dodgers,61,Dome,Night,NO,NO,NO,NO
+2012,Colorado Rockies,MAY,30,28102,Wednesday,Houston Astros,73,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,MAY,30,25509,Wednesday,Milwaukee Brewers,69,Clear,Night,NO,NO,NO,NO
+2012,San Francisco Giants,MAY,18,41477,Friday,Oakland Athletics,55,Clear,Night,NO,NO,NO,NO
+2012,Cleveland Indians,JUL,24,23637,Tuesday,Detroit Tigers,78,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,APR,10,26927,Tuesday,Washington Nationals,56,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,SEP,16,21698,Sunday,Boston Red Sox,63,Clear,Day,NO,NO,NO,NO
+2012,New York Mets,JUL,6,27956,Friday,Chicago Cubs,82,Clear,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,MAY,22,30451,Tuesday,San Francisco Giants,71,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,SEP,13,38029,Thursday,Oakland Athletics,85,Clear,Day,NO,NO,NO,NO
+2012,Oakland Athletics,MAY,12,20077,Saturday,Detroit Tigers,66,Clear,Night,YES,NO,NO,NO
+2012,Philadelphia Phillies,JUL,20,44205,Friday,San Francisco Giants,66,Cloudy,Night,NO,NO,NO,NO
+2012,Kansas City Royals,AUG,19,22401,Sunday,Chicago White Sox,80,Clear,Day,NO,NO,NO,NO
+2012,Baltimore Orioles,MAY,23,27806,Wednesday,Boston Red Sox,75,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,MAY,4,22492,Friday,Minnesota Twins,50,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,AUG,3,43537,Friday,Chicago Cubs,73,Clear,Night,NO,NO,YES,NO
+2012,Chicago White Sox,SEP,28,25264,Friday,Tampa Bay Rays,64,Clear,Night,NO,NO,YES,NO
+2012,New York Mets,JUL,22,31184,Sunday,Los Angeles Dodgers,81,Cloudy,Day,NO,YES,NO,NO
+2012,San Diego Padres,JUN,7,22015,Thursday,San Francisco Giants,71,Clear,Day,NO,NO,NO,NO
+2012,Chicago White Sox,JUL,5,21288,Thursday,Texas Rangers,99,Clear,Day,NO,NO,NO,NO
+2012,Boston Red Sox,AUG,21,37794,Tuesday,Los Angeles Angels,79,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,SEP,30,50635,Sunday,New York Mets,73,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Angels,AUG,28,38745,Tuesday,Boston Red Sox,86,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,APR,7,31909,Saturday,Los Angeles Dodgers,71,Clear,Night,NO,NO,NO,NO
+2012,Seattle Mariners,MAY,22,15604,Tuesday,Texas Rangers,56,Cloudy,Night,NO,NO,NO,NO
+2012,Cleveland Indians,MAY,5,21307,Saturday,Texas Rangers,58,Clear,Night,NO,YES,NO,NO
+2012,Cincinnati Reds,MAY,11,37255,Friday,Washington Nationals,72,Clear,Night,NO,NO,YES,NO
+2012,Pittsburgh Pirates,MAY,4,20445,Friday,Cincinnati Reds,79,Cloudy,Night,NO,YES,NO,NO
+2012,Minnesota Twins,JUL,1,37819,Sunday,Kansas City Royals,91,Clear,Day,NO,NO,NO,NO
+2012,St. Louis Cardinals,SEP,18,35422,Tuesday,Houston Astros,64,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,SEP,19,15337,Wednesday,Milwaukee Brewers,62,Cloudy,Night,NO,NO,NO,NO
+2012,Houston Astros,JUL,28,34146,Saturday,Pittsburgh Pirates,73,Dome,Night,NO,NO,NO,YES
+2012,Los Angeles Angels,APR,19,27864,Thursday,Oakland Athletics,67,Cloudy,Night,NO,YES,NO,NO
+2012,Milwaukee Brewers,JUN,7,30123,Thursday,Chicago Cubs,75,Clear,Day,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUL,21,18800,Saturday,Seattle Mariners,72,Dome,Night,NO,NO,NO,NO
+2012,Minnesota Twins,APR,11,31413,Wednesday,Los Angeles Angels,50,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,SEP,21,42359,Friday,Arizona Diamondbacks,75,Clear,Night,NO,NO,YES,NO
+2012,Oakland Athletics,SEP,28,16376,Friday,Seattle Mariners,61,Clear,Night,NO,NO,NO,NO
+2012,Houston Astros,JUN,20,30687,Wednesday,Kansas City Royals,73,Dome,Day,YES,NO,NO,NO
+2012,Chicago Cubs,AUG,12,35461,Sunday,Cincinnati Reds,75,Cloudy,Day,NO,NO,NO,NO
+2012,Chicago White Sox,JUN,23,30337,Saturday,Milwaukee Brewers,75,Cloudy,Night,NO,NO,YES,NO
+2012,Baltimore Orioles,MAY,15,24055,Tuesday,New York Yankees,78,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,SEP,16,35754,Sunday,St. Louis Cardinals,86,Clear,Day,NO,NO,NO,NO
+2012,St. Louis Cardinals,SEP,4,34108,Tuesday,New York Mets,86,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,JUL,5,25181,Thursday,Cincinnati Reds,67,Clear,Night,NO,NO,NO,NO
+2012,Detroit Tigers,AUG,21,39499,Tuesday,Toronto Blue Jays,68,Cloudy,Night,NO,NO,NO,YES
+2012,Detroit Tigers,SEP,1,40059,Saturday,Chicago White Sox,80,Cloudy,Night,NO,NO,YES,NO
+2012,Texas Rangers,APR,12,31513,Thursday,Seattle Mariners,77,Cloudy,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,JUN,22,37965,Friday,Detroit Tigers,81,Cloudy,Night,NO,YES,NO,NO
+2012,Cleveland Indians,MAY,22,15049,Tuesday,Detroit Tigers,61,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,APR,8,33211,Sunday,St. Louis Cardinals,70,Dome,Day,NO,NO,NO,NO
+2012,Colorado Rockies,APR,16,21547,Monday,San Diego Padres,56,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,APR,24,38894,Tuesday,St. Louis Cardinals,57,Cloudy,Night,NO,NO,NO,NO
+2012,Kansas City Royals,JUL,17,15769,Tuesday,Seattle Mariners,98,Cloudy,Night,NO,NO,NO,NO
+2012,New York Yankees,AUG,31,43352,Friday,Baltimore Orioles,87,Clear,Night,NO,NO,NO,NO
+2012,Baltimore Orioles,AUG,15,22269,Wednesday,Boston Red Sox,80,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,APR,7,44710,Saturday,Boston Red Sox,62,Clear,Day,NO,NO,NO,NO
+2012,Boston Red Sox,APR,18,37967,Wednesday,Texas Rangers,51,Cloudy,Night,NO,NO,NO,NO
+2012,Colorado Rockies,MAY,6,45330,Sunday,Atlanta Braves,55,Cloudy,Day,NO,NO,NO,NO
+2012,Washington Nationals,JUN,5,26256,Tuesday,New York Mets,69,Cloudy,Night,NO,NO,NO,NO
+2012,Oakland Athletics,AUG,4,17121,Saturday,Toronto Blue Jays,62,Cloudy,Day,NO,NO,NO,NO
+2012,Detroit Tigers,AUG,3,41502,Friday,Cleveland Indians,91,Clear,Night,NO,NO,YES,NO
+2012,Los Angeles Dodgers,JUN,13,43494,Wednesday,Los Angeles Angels,67,Clear,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,AUG,22,17239,Wednesday,Miami Marlins,77,Dome,Day,NO,NO,NO,NO
+2012,New York Mets,APR,7,39526,Saturday,Atlanta Braves,55,Clear,Day,NO,NO,NO,NO
+2012,Washington Nationals,JUN,3,38046,Sunday,Atlanta Braves,74,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,AUG,30,54621,Thursday,Arizona Diamondbacks,80,Clear,Night,NO,NO,NO,YES
+2012,Colorado Rockies,SEP,23,32448,Sunday,Arizona Diamondbacks,82,Cloudy,Day,NO,NO,NO,NO
+2012,Cincinnati Reds,AUG,1,20527,Wednesday,San Diego Padres,91,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,APR,22,26759,Sunday,Philadelphia Phillies,69,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,JUN,10,34807,Sunday,Los Angeles Dodgers,59,Cloudy,Day,NO,NO,NO,NO
+2012,Cleveland Indians,APR,7,18842,Saturday,Toronto Blue Jays,48,Clear,Day,NO,NO,NO,NO
+2012,Kansas City Royals,OCT,3,30383,Wednesday,Detroit Tigers,72,Clear,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,APR,27,24303,Friday,Seattle Mariners,68,Dome,Night,NO,NO,NO,NO
+2012,Miami Marlins,SEP,2,25333,Sunday,New York Mets,78,Dome,Day,NO,NO,NO,NO
+2012,New York Yankees,JUN,19,41219,Tuesday,Atlanta Braves,72,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,JUL,27,35858,Friday,Washington Nationals,74,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,SEP,28,51910,Friday,New York Mets,78,Cloudy,Night,NO,NO,YES,NO
+2012,Colorado Rockies,JUN,12,33635,Tuesday,Oakland Athletics,81,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,AUG,10,41610,Friday,New York Yankees,68,Dome,Night,NO,NO,NO,NO
+2012,Boston Red Sox,APR,13,37032,Friday,Tampa Bay Rays,58,Cloudy,Day,NO,NO,NO,NO
+2012,Minnesota Twins,JUL,13,33230,Friday,Oakland Athletics,68,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,JUL,2,28674,Monday,Miami Marlins,89,Clear,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,JUN,9,28061,Saturday,Oakland Athletics,102,Clear,Night,NO,NO,NO,NO
+2012,Detroit Tigers,JUN,21,40776,Thursday,St. Louis Cardinals,92,Cloudy,Day,NO,NO,NO,NO
+2012,Cincinnati Reds,JUN,12,24758,Tuesday,Cleveland Indians,86,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,SEP,7,32699,Friday,Chicago Cubs,83,Cloudy,Night,NO,YES,NO,NO
+2012,Oakland Athletics,JUL,22,30470,Sunday,New York Yankees,70,Clear,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,JUN,16,45210,Saturday,Chicago White Sox,68,Clear,Night,NO,NO,NO,NO
+2012,Minnesota Twins,AUG,13,34366,Monday,Detroit Tigers,80,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,SEP,4,13556,Tuesday,Baltimore Orioles,68,Dome,Night,NO,NO,NO,NO
+2012,Boston Red Sox,AUG,8,37716,Wednesday,Texas Rangers,85,Cloudy,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,SEP,28,34796,Friday,Cincinnati Reds,62,Cloudy,Night,NO,YES,NO,NO
+2012,Tampa Bay Rays,AUG,5,29530,Sunday,Baltimore Orioles,72,Dome,Day,NO,NO,NO,YES
+2012,New York Mets,JUN,3,23559,Sunday,St. Louis Cardinals,69,Cloudy,Night,YES,NO,NO,NO
+2012,Detroit Tigers,MAY,2,33187,Wednesday,Kansas City Royals,71,Cloudy,Day,NO,NO,NO,NO
+2012,Milwaukee Brewers,SEP,12,37847,Wednesday,Atlanta Braves,80,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,JUN,21,29551,Thursday,Tampa Bay Rays,96,Cloudy,Night,NO,NO,NO,NO
+2012,Texas Rangers,MAY,13,46669,Sunday,Los Angeles Angels,80,Cloudy,Night,NO,YES,NO,NO
+2012,Atlanta Braves,SEP,26,23420,Wednesday,Miami Marlins,82,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago Cubs,AUG,14,33376,Tuesday,Houston Astros,75,Cloudy,Night,YES,NO,NO,NO
+2012,Texas Rangers,SEP,27,43796,Thursday,Oakland Athletics,86,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,JUL,15,39715,Sunday,San Diego Padres,77,Clear,Day,NO,NO,NO,NO
+2012,Minnesota Twins,JUN,8,38014,Friday,Chicago Cubs,89,Cloudy,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,JUL,2,21041,Monday,Houston Astros,90,Cloudy,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,MAY,29,12077,Tuesday,Cincinnati Reds,70,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,AUG,13,16828,Monday,Chicago White Sox,73,Cloudy,Night,NO,NO,NO,NO
+2012,San Francisco Giants,SEP,23,41511,Sunday,San Diego Padres,66,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Angels,APR,30,27027,Monday,Minnesota Twins,64,Cloudy,Night,NO,NO,NO,NO
+2012,Seattle Mariners,APR,19,12942,Thursday,Cleveland Indians,55,Dome,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,MAY,9,27090,Wednesday,Cincinnati Reds,67,Dome,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,MAY,25,36283,Friday,Houston Astros,59,Cloudy,Night,NO,NO,YES,NO
+2012,Milwaukee Brewers,JUL,5,27443,Thursday,Miami Marlins,101,Cloudy,Day,NO,NO,NO,NO
+2012,Colorado Rockies,AUG,29,25155,Wednesday,Los Angeles Dodgers,90,Cloudy,Day,NO,NO,NO,NO
+2012,Chicago Cubs,MAY,6,38125,Sunday,Los Angeles Dodgers,57,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Angels,JUL,25,39107,Wednesday,Kansas City Royals,75,Clear,Day,NO,NO,NO,NO
+2012,Miami Marlins,MAY,11,31007,Friday,New York Mets,78,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,AUG,7,55024,Tuesday,Colorado Rockies,80,Clear,Night,NO,NO,NO,YES
+2012,Philadelphia Phillies,APR,13,45429,Friday,New York Mets,61,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,APR,12,36311,Thursday,Milwaukee Brewers,57,Clear,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,APR,20,23509,Friday,St. Louis Cardinals,78,Cloudy,Night,NO,YES,NO,NO
+2012,Minnesota Twins,JUN,14,32205,Thursday,Philadelphia Phillies,67,Cloudy,Night,NO,NO,NO,NO
+2012,Baltimore Orioles,APR,6,46773,Friday,Minnesota Twins,59,Clear,Day,NO,NO,NO,NO
+2012,Texas Rangers,JUN,27,43379,Wednesday,Detroit Tigers,99,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,JUL,4,36827,Wednesday,Houston Astros,89,Cloudy,Day,NO,NO,NO,NO
+2012,Detroit Tigers,AUG,17,41620,Friday,Baltimore Orioles,76,Cloudy,Night,NO,NO,YES,NO
+2012,Los Angeles Dodgers,MAY,11,35591,Friday,Colorado Rockies,65,Clear,Night,NO,NO,YES,NO
+2012,San Diego Padres,JUL,19,26735,Thursday,Houston Astros,72,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,JUL,25,35517,Wednesday,Washington Nationals,80,Clear,Day,NO,NO,NO,NO
+2012,Arizona Diamondbacks,MAY,8,30156,Tuesday,St. Louis Cardinals,90,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,JUN,7,32096,Thursday,New York Mets,78,Cloudy,Day,NO,NO,NO,NO
+2012,Houston Astros,MAY,7,16531,Monday,Miami Marlins,72,Dome,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,OCT,2,30714,Tuesday,San Diego Padres,70,Dome,Night,NO,NO,NO,NO
+2012,Colorado Rockies,AUG,2,29659,Thursday,St. Louis Cardinals,86,Cloudy,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,JUL,20,43786,Friday,Chicago Cubs,87,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,SEP,8,18702,Saturday,Texas Rangers,72,Dome,Night,NO,NO,NO,NO
+2012,Chicago White Sox,JUN,10,20398,Sunday,Houston Astros,89,Cloudy,Day,NO,NO,NO,NO
+2012,Miami Marlins,JUL,14,28707,Saturday,Washington Nationals,76,Dome,Night,NO,NO,YES,NO
+2012,Baltimore Orioles,AUG,25,25082,Saturday,Toronto Blue Jays,77,Cloudy,Night,YES,NO,NO,NO
+2012,Seattle Mariners,JUN,27,18158,Wednesday,Oakland Athletics,61,Clear,Day,NO,NO,NO,NO
+2012,Arizona Diamondbacks,APR,24,24213,Tuesday,Philadelphia Phillies,92,Clear,Night,NO,NO,NO,NO
+2012,Texas Rangers,APR,10,25753,Tuesday,Seattle Mariners,82,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago Cubs,JUL,18,34934,Wednesday,Miami Marlins,78,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,AUG,20,9913,Monday,Kansas City Royals,72,Dome,Night,NO,NO,NO,NO
+2012,Atlanta Braves,AUG,5,23474,Sunday,Houston Astros,89,Cloudy,Day,NO,NO,NO,NO
+2012,Minnesota Twins,JUN,12,32622,Tuesday,Philadelphia Phillies,68,Clear,Night,NO,NO,NO,NO
+2012,Cleveland Indians,JUN,3,21238,Sunday,Minnesota Twins,73,Cloudy,Day,NO,NO,NO,YES
+2012,Detroit Tigers,SEP,24,31521,Monday,Kansas City Royals,63,Clear,Night,NO,NO,NO,NO
+2012,Houston Astros,JUN,7,22265,Thursday,St. Louis Cardinals,73,Dome,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,APR,28,42586,Saturday,Milwaukee Brewers,76,Clear,Day,YES,NO,NO,NO
+2012,Seattle Mariners,JUN,30,31311,Saturday,Boston Red Sox,64,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,APR,17,27159,Tuesday,Los Angeles Dodgers,63,Dome,Night,NO,NO,NO,NO
+2012,New York Mets,JUL,5,28409,Thursday,Philadelphia Phillies,91,Cloudy,Night,NO,NO,NO,NO
+2012,Colorado Rockies,SEP,2,30678,Sunday,San Diego Padres,84,Cloudy,Day,NO,NO,NO,NO
+2012,Houston Astros,SEP,13,13028,Thursday,Philadelphia Phillies,73,Dome,Night,NO,NO,NO,NO
+2012,Boston Red Sox,JUL,30,37784,Monday,Detroit Tigers,79,Clear,Night,NO,NO,NO,NO
+2012,Boston Red Sox,MAY,29,37216,Tuesday,Detroit Tigers,68,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUL,14,27311,Saturday,Boston Red Sox,72,Dome,Night,NO,NO,NO,NO
+2012,Kansas City Royals,SEP,15,23027,Saturday,Los Angeles Angels,70,Cloudy,Night,YES,NO,NO,NO
+2012,Toronto Blue Jays,JUL,1,34853,Sunday,Los Angeles Angels,77,Cloudy,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,JUN,10,25752,Sunday,Kansas City Royals,85,Clear,Day,NO,NO,NO,NO
+2012,Philadelphia Phillies,JUN,23,44878,Saturday,Tampa Bay Rays,86,Cloudy,Day,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUL,19,27856,Thursday,Cleveland Indians,72,Dome,Day,NO,NO,NO,NO
+2012,Tampa Bay Rays,MAY,20,24759,Sunday,Atlanta Braves,72,Dome,Day,NO,NO,NO,YES
+2012,Detroit Tigers,SEP,3,35418,Monday,Cleveland Indians,81,Clear,Day,NO,NO,NO,NO
+2012,Oakland Athletics,AUG,6,13341,Monday,Los Angeles Angels,67,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,AUG,23,22544,Thursday,Colorado Rockies,84,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,AUG,17,22602,Friday,Minnesota Twins,79,Clear,Night,NO,NO,NO,NO
+2012,Cincinnati Reds,AUG,17,35332,Friday,Chicago Cubs,81,Cloudy,Night,NO,NO,YES,NO
+2012,Detroit Tigers,SEP,27,33019,Thursday,Kansas City Royals,59,Cloudy,Day,NO,NO,NO,NO
+2012,San Diego Padres,SEP,26,24818,Wednesday,Los Angeles Dodgers,70,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,SEP,3,20055,Monday,Houston Astros,84,Cloudy,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,JUN,19,19936,Tuesday,Minnesota Twins,89,Cloudy,Night,NO,NO,NO,NO
+2012,Oakland Athletics,MAY,8,10784,Tuesday,Toronto Blue Jays,65,Clear,Night,NO,NO,NO,NO
+2012,New York Yankees,MAY,1,37790,Tuesday,Baltimore Orioles,66,Cloudy,Night,NO,NO,NO,NO
+2012,Kansas City Royals,JUN,12,24258,Tuesday,Milwaukee Brewers,81,Clear,Night,NO,YES,NO,NO
+2012,Milwaukee Brewers,APR,21,43565,Saturday,Colorado Rockies,64,Dome,Night,NO,NO,NO,NO
+2012,San Francisco Giants,SEP,9,41517,Sunday,Los Angeles Dodgers,64,Clear,Night,NO,NO,NO,NO
+2012,Boston Red Sox,AUG,4,37914,Saturday,Minnesota Twins,79,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago Cubs,JUL,28,41276,Saturday,St. Louis Cardinals,76,Cloudy,Day,NO,YES,NO,NO
+2012,Pittsburgh Pirates,JUL,5,21386,Thursday,Houston Astros,87,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,MAY,27,38543,Sunday,Washington Nationals,85,Clear,Night,NO,NO,NO,NO
+2012,Houston Astros,JUN,18,15436,Monday,Kansas City Royals,73,Dome,Night,NO,NO,NO,NO
+2012,Chicago White Sox,APR,27,20414,Friday,Boston Red Sox,39,Cloudy,Night,NO,NO,YES,NO
+2012,Washington Nationals,MAY,16,25942,Wednesday,Pittsburgh Pirates,82,Clear,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,AUG,12,27345,Sunday,Washington Nationals,77,Dome,Day,NO,NO,NO,NO
+2012,Houston Astros,JUL,7,23027,Saturday,Milwaukee Brewers,73,Dome,Day,NO,NO,NO,YES
+2012,Chicago Cubs,JUN,26,34064,Tuesday,New York Mets,74,Clear,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,AUG,21,45091,Tuesday,Cincinnati Reds,79,Cloudy,Night,NO,NO,NO,YES
+2012,Philadelphia Phillies,AUG,4,43762,Saturday,Arizona Diamondbacks,85,Cloudy,Night,NO,NO,NO,NO
+2012,New York Mets,JUL,23,26735,Monday,Washington Nationals,80,Cloudy,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,MAY,26,44476,Saturday,Philadelphia Phillies,94,Clear,Night,YES,NO,NO,NO
+2012,Minnesota Twins,APR,9,39414,Monday,Los Angeles Angels,45,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,MAY,7,14462,Monday,Detroit Tigers,67,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,MAY,1,30159,Tuesday,Kansas City Royals,55,Cloudy,Night,NO,NO,NO,NO
+2012,Seattle Mariners,APR,17,12461,Tuesday,Cleveland Indians,50,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,SEP,29,40724,Saturday,Colorado Rockies,84,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,MAY,9,33993,Wednesday,San Francisco Giants,71,Clear,Night,NO,NO,NO,NO
+2012,Washington Nationals,MAY,3,19656,Thursday,Arizona Diamondbacks,80,Clear,Night,NO,NO,NO,NO
+2012,Minnesota Twins,SEP,29,32839,Saturday,Detroit Tigers,80,Clear,Day,NO,NO,NO,NO
+2012,New York Yankees,APR,17,40194,Tuesday,Minnesota Twins,73,Cloudy,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,APR,22,28679,Sunday,Atlanta Braves,74,Dome,Day,NO,NO,NO,NO
+2012,Colorado Rockies,MAY,20,36662,Sunday,Seattle Mariners,72,Cloudy,Day,NO,NO,NO,NO
+2012,Miami Marlins,JUN,5,25432,Tuesday,Atlanta Braves,79,Dome,Night,NO,NO,NO,NO
+2012,Atlanta Braves,APR,28,34086,Saturday,Pittsburgh Pirates,81,Clear,Night,NO,NO,NO,NO
+2012,Kansas City Royals,APR,16,14039,Monday,Detroit Tigers,64,Cloudy,Night,NO,NO,NO,NO
+2012,New York Mets,JUN,1,27069,Friday,St. Louis Cardinals,66,Cloudy,Night,NO,NO,NO,NO
+2012,San Francisco Giants,SEP,19,41292,Wednesday,Colorado Rockies,58,Clear,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,JUN,13,40045,Wednesday,Chicago White Sox,80,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,AUG,13,31452,Monday,Houston Astros,65,Cloudy,Night,NO,NO,NO,YES
+2012,Boston Red Sox,JUL,20,38093,Friday,Toronto Blue Jays,69,Cloudy,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,APR,29,45550,Sunday,Chicago Cubs,62,Clear,Day,NO,NO,NO,NO
+2012,Colorado Rockies,AUG,4,35242,Saturday,San Francisco Giants,81,Clear,Night,NO,YES,NO,NO
+2012,Detroit Tigers,JUN,16,41800,Saturday,Colorado Rockies,86,Cloudy,Day,NO,NO,NO,NO
+2012,Kansas City Royals,SEP,3,22207,Monday,Texas Rangers,90,Clear,Day,NO,NO,NO,NO
+2012,Minnesota Twins,JUN,30,37694,Saturday,Kansas City Royals,85,Clear,Day,NO,NO,NO,NO
+2012,Chicago Cubs,JUL,29,39534,Sunday,St. Louis Cardinals,80,Cloudy,Day,NO,NO,NO,NO
+2012,Washington Nationals,APR,12,40907,Thursday,Cincinnati Reds,56,Cloudy,Day,YES,NO,NO,NO
+2012,Miami Marlins,MAY,21,25155,Monday,Colorado Rockies,76,Dome,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,JUN,28,24668,Thursday,Los Angeles Angels,73,Clear,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,MAY,23,27645,Wednesday,Los Angeles Dodgers,99,Clear,Night,NO,NO,NO,NO
+2012,Miami Marlins,JUN,24,27888,Sunday,Toronto Blue Jays,73,Dome,Day,NO,YES,NO,NO
+2012,Houston Astros,APR,7,23962,Saturday,Colorado Rockies,80,Clear,Night,NO,NO,NO,NO
+2012,Chicago Cubs,MAY,30,38516,Wednesday,San Diego Padres,59,Cloudy,Day,NO,NO,NO,NO
+2012,New York Yankees,JUL,17,44975,Tuesday,Toronto Blue Jays,95,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,JUL,24,35051,Tuesday,Kansas City Royals,73,Clear,Night,YES,NO,NO,NO
+2012,Minnesota Twins,JUL,18,33195,Wednesday,Baltimore Orioles,76,Cloudy,Night,NO,NO,NO,NO
+2012,San Francisco Giants,AUG,24,41486,Friday,Atlanta Braves,58,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,JUL,6,28951,Friday,Colorado Rockies,96,Clear,Night,NO,NO,NO,NO
+2012,Atlanta Braves,JUL,18,29410,Wednesday,San Francisco Giants,76,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,AUG,22,37225,Wednesday,Toronto Blue Jays,78,Clear,Night,NO,NO,NO,NO
+2012,Kansas City Royals,JUN,14,21869,Thursday,Milwaukee Brewers,87,Clear,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,MAY,4,33160,Friday,Toronto Blue Jays,67,Cloudy,Night,NO,NO,YES,NO
+2012,Washington Nationals,SEP,23,33111,Sunday,Milwaukee Brewers,67,Cloudy,Day,NO,NO,NO,NO
+2012,Chicago White Sox,AUG,8,25151,Wednesday,Kansas City Royals,73,Cloudy,Night,NO,NO,NO,NO
+2012,Miami Marlins,JUL,23,29019,Monday,Atlanta Braves,77,Dome,Night,NO,NO,NO,NO
+2012,Baltimore Orioles,AUG,11,40456,Saturday,Kansas City Royals,73,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,JUN,3,42465,Sunday,Texas Rangers,70,Cloudy,Day,NO,NO,NO,NO
+2012,Texas Rangers,MAY,12,47699,Saturday,Los Angeles Angels,69,Cloudy,Day,YES,NO,NO,NO
+2012,San Diego Padres,MAY,5,25076,Saturday,Miami Marlins,67,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,MAY,24,24109,Thursday,San Diego Padres,66,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,SEP,10,36064,Monday,Oakland Athletics,78,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,SEP,19,37093,Wednesday,Texas Rangers,78,Clear,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,JUN,2,39603,Saturday,Pittsburgh Pirates,74,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,APR,16,16161,Monday,New York Mets,71,Cloudy,Night,NO,NO,NO,NO
+2012,New York Yankees,MAY,20,45622,Sunday,Cincinnati Reds,72,Clear,Day,NO,NO,NO,NO
+2012,Detroit Tigers,APR,12,30288,Thursday,Tampa Bay Rays,54,Cloudy,Day,NO,NO,NO,NO
+2012,Texas Rangers,JUN,12,39140,Tuesday,Arizona Diamondbacks,81,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,JUN,10,43021,Sunday,San Diego Padres,87,Clear,Day,NO,NO,NO,YES
+2012,Milwaukee Brewers,JUL,31,30011,Tuesday,Houston Astros,79,Clear,Night,NO,NO,NO,NO
+2012,Cleveland Indians,JUN,17,27388,Sunday,Pittsburgh Pirates,78,Cloudy,Day,NO,YES,NO,NO
+2012,Los Angeles Dodgers,JUN,30,44217,Saturday,New York Mets,78,Clear,Day,NO,NO,NO,NO
+2012,Milwaukee Brewers,AUG,16,30117,Thursday,Philadelphia Phillies,75,Cloudy,Night,NO,NO,NO,NO
+2012,Oakland Athletics,JUN,17,21631,Sunday,San Diego Padres,68,Clear,Day,NO,NO,NO,NO
+2012,Los Angeles Angels,MAY,14,32851,Monday,Oakland Athletics,70,Clear,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,APR,7,42084,Saturday,St. Louis Cardinals,70,Dome,Day,NO,NO,NO,NO
+2012,Washington Nationals,SEP,3,23215,Monday,Chicago Cubs,82,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,JUN,13,13931,Wednesday,San Diego Padres,57,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,MAY,21,31644,Monday,San Francisco Giants,65,Clear,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUN,28,20532,Thursday,Detroit Tigers,72,Dome,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,AUG,24,42096,Friday,Washington Nationals,84,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,SEP,22,40493,Saturday,Milwaukee Brewers,78,Clear,Day,NO,NO,NO,NO
+2012,Baltimore Orioles,MAY,26,26714,Saturday,Kansas City Royals,87,Cloudy,Day,NO,NO,NO,NO
+2012,New York Yankees,MAY,22,37674,Tuesday,Kansas City Royals,67,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,APR,21,35001,Saturday,Texas Rangers,50,Clear,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,MAY,17,19842,Thursday,Boston Red Sox,72,Dome,Night,NO,NO,NO,NO
+2012,Texas Rangers,JUN,24,45407,Sunday,Colorado Rockies,97,Clear,Night,NO,NO,NO,NO
+2012,Oakland Athletics,MAY,25,33559,Friday,New York Yankees,59,Cloudy,Night,NO,NO,YES,NO
+2012,San Francisco Giants,APR,18,41860,Wednesday,Philadelphia Phillies,56,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,AUG,13,18250,Monday,San Diego Padres,71,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,SEP,4,16686,Tuesday,Colorado Rockies,74,Cloudy,Night,NO,NO,NO,NO
+2012,Houston Astros,JUN,27,15012,Wednesday,San Diego Padres,73,Dome,Night,NO,NO,NO,NO
+2012,Chicago White Sox,SEP,27,18630,Thursday,Tampa Bay Rays,60,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,JUL,4,40604,Wednesday,Chicago Cubs,82,Cloudy,Night,NO,NO,YES,NO
+2012,Cleveland Indians,MAY,28,25377,Monday,Kansas City Royals,90,Cloudy,Day,NO,YES,NO,NO
+2012,Philadelphia Phillies,JUN,2,45509,Saturday,Miami Marlins,72,Cloudy,Day,NO,NO,NO,NO
+2012,Miami Marlins,MAY,27,30199,Sunday,San Francisco Giants,77,Dome,Day,NO,NO,NO,NO
+2012,Atlanta Braves,JUL,17,29623,Tuesday,San Francisco Giants,77,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,JUN,2,36559,Saturday,Arizona Diamondbacks,66,Cloudy,Night,NO,NO,NO,NO
+2012,Oakland Athletics,SEP,1,20315,Saturday,Boston Red Sox,63,Clear,Night,NO,NO,NO,NO
+2012,San Diego Padres,APR,20,23748,Friday,Philadelphia Phillies,66,Cloudy,Night,NO,NO,YES,NO
+2012,Cleveland Indians,OCT,1,14756,Monday,Chicago White Sox,61,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,SEP,5,14458,Wednesday,Baltimore Orioles,75,Cloudy,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,JUL,7,44797,Saturday,Atlanta Braves,91,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,JUN,2,43390,Saturday,Boston Red Sox,68,Dome,Day,NO,NO,NO,NO
+2012,Cleveland Indians,JUL,23,18264,Monday,Baltimore Orioles,91,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,JUN,13,32155,Wednesday,Oakland Athletics,91,Cloudy,Night,NO,NO,NO,NO
+2012,New York Yankees,MAY,18,42015,Friday,Cincinnati Reds,66,Clear,Night,NO,YES,NO,NO
+2012,St. Louis Cardinals,MAY,21,40360,Monday,San Diego Padres,72,Cloudy,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,JUL,8,30523,Sunday,Los Angeles Dodgers,76,Dome,Day,NO,NO,NO,NO
+2012,Baltimore Orioles,SEP,28,33518,Friday,Boston Red Sox,72,Cloudy,Night,NO,NO,YES,NO
+2012,Colorado Rockies,JUL,27,38214,Friday,Cincinnati Reds,70,Cloudy,Night,NO,NO,NO,NO
+2012,Colorado Rockies,MAY,19,30784,Saturday,Seattle Mariners,48,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,JUL,13,43873,Friday,San Diego Padres,76,Cloudy,Night,NO,NO,YES,NO
+2012,Toronto Blue Jays,JUN,3,41925,Sunday,Boston Red Sox,68,Dome,Day,NO,NO,NO,YES
+2012,Seattle Mariners,JUL,26,15014,Thursday,Kansas City Royals,74,Clear,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,AUG,16,36758,Thursday,Arizona Diamondbacks,74,Cloudy,Night,NO,NO,NO,NO
+2012,San Francisco Giants,MAY,17,41225,Thursday,St. Louis Cardinals,58,Clear,Day,NO,NO,NO,NO
+2012,New York Yankees,JUL,28,49573,Saturday,Boston Red Sox,69,Cloudy,Day,NO,NO,NO,NO
+2012,Texas Rangers,JUN,16,48288,Saturday,Houston Astros,91,Cloudy,Night,NO,YES,NO,NO
+2012,Los Angeles Angels,JUN,19,38010,Tuesday,San Francisco Giants,69,Clear,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,SEP,22,41440,Saturday,Chicago White Sox,86,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,SEP,25,29048,Tuesday,Kansas City Royals,68,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,JUN,18,32223,Monday,Toronto Blue Jays,90,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,JUN,5,30662,Tuesday,San Francisco Giants,66,Clear,Night,NO,NO,NO,NO
+2012,Kansas City Royals,APR,20,23065,Friday,Toronto Blue Jays,59,Clear,Night,NO,NO,YES,NO
+2012,Washington Nationals,SEP,4,17648,Tuesday,Chicago Cubs,82,Cloudy,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,JUL,6,44441,Friday,Atlanta Braves,94,Clear,Night,NO,NO,NO,NO
+2012,Kansas City Royals,AUG,17,22169,Friday,Chicago White Sox,82,Clear,Night,NO,NO,YES,NO
+2012,Oakland Athletics,MAY,10,11513,Thursday,Detroit Tigers,70,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,SEP,25,26660,Tuesday,Chicago Cubs,54,Rainy,Night,NO,NO,NO,NO
+2012,Miami Marlins,JUN,30,31311,Saturday,Philadelphia Phillies,77,Dome,Day,NO,NO,NO,NO
+2012,San Diego Padres,SEP,29,42397,Saturday,San Francisco Giants,73,Clear,Night,NO,YES,NO,NO
+2012,Texas Rangers,AUG,24,45823,Friday,Minnesota Twins,92,Clear,Night,NO,NO,YES,NO
+2012,Chicago White Sox,AUG,6,30097,Monday,Kansas City Royals,82,Clear,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,AUG,23,41972,Thursday,Cincinnati Reds,80,Clear,Night,NO,NO,NO,NO
+2012,Atlanta Braves,APR,27,36215,Friday,Pittsburgh Pirates,75,Cloudy,Night,NO,NO,YES,NO
+2012,Cleveland Indians,JUL,6,28734,Friday,Tampa Bay Rays,88,Cloudy,Night,NO,NO,YES,NO
+2012,Toronto Blue Jays,MAY,14,15289,Monday,Tampa Bay Rays,64,Cloudy,Night,NO,NO,NO,NO
+2012,Miami Marlins,MAY,30,24224,Wednesday,Washington Nationals,76,Dome,Night,NO,YES,NO,NO
+2012,Seattle Mariners,JUL,29,19402,Sunday,Kansas City Royals,65,Clear,Day,NO,NO,NO,NO
+2012,Arizona Diamondbacks,MAY,13,35430,Sunday,San Francisco Giants,77,Dome,Day,NO,NO,NO,NO
+2012,Texas Rangers,SEP,13,36102,Thursday,Cleveland Indians,83,Cloudy,Night,NO,NO,NO,NO
+2012,Cleveland Indians,AUG,26,26166,Sunday,New York Yankees,83,Clear,Day,NO,NO,NO,NO
+2012,St. Louis Cardinals,SEP,7,38648,Friday,Milwaukee Brewers,70,Cloudy,Night,NO,NO,NO,NO
+2012,Houston Astros,JUN,1,21464,Friday,Cincinnati Reds,73,Dome,Night,NO,YES,YES,NO
+2012,Philadelphia Phillies,SEP,7,42028,Friday,Colorado Rockies,83,Cloudy,Night,YES,NO,NO,NO
+2012,Miami Marlins,OCT,3,27418,Wednesday,New York Mets,80,Dome,Day,NO,NO,NO,NO
+2012,Detroit Tigers,AUG,4,42744,Saturday,Cleveland Indians,89,Cloudy,Night,NO,NO,YES,NO
+2012,Seattle Mariners,JUL,30,22443,Monday,Toronto Blue Jays,67,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,AUG,15,37554,Wednesday,Cleveland Indians,76,Cloudy,Night,NO,NO,NO,NO
+2012,Texas Rangers,AUG,28,30700,Tuesday,Tampa Bay Rays,89,Cloudy,Night,NO,NO,NO,NO
+2012,Texas Rangers,JUL,27,47638,Friday,Chicago White Sox,95,Clear,Night,NO,NO,YES,NO
+2012,Cincinnati Reds,JUN,9,42443,Saturday,Detroit Tigers,85,Cloudy,Day,NO,NO,NO,NO
+2012,Kansas City Royals,APR,21,27804,Saturday,Toronto Blue Jays,68,Clear,Night,NO,YES,NO,NO
+2012,Milwaukee Brewers,OCT,1,30398,Monday,San Diego Padres,68,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,SEP,3,33540,Monday,San Diego Padres,84,Cloudy,Night,NO,NO,NO,NO
+2012,Colorado Rockies,APR,17,24525,Tuesday,San Diego Padres,66,Cloudy,Night,NO,NO,NO,NO
+2012,Cleveland Indians,MAY,30,17112,Wednesday,Kansas City Royals,70,Clear,Day,NO,NO,NO,NO
+2012,Detroit Tigers,JUN,2,44593,Saturday,New York Yankees,71,Cloudy,Night,NO,NO,YES,NO
+2012,Miami Marlins,OCT,2,29709,Tuesday,New York Mets,76,Dome,Night,NO,NO,NO,NO
+2012,Oakland Athletics,JUN,24,36067,Sunday,San Francisco Giants,65,Cloudy,Day,NO,NO,NO,NO
+2012,New York Yankees,JUN,27,45099,Wednesday,Cleveland Indians,78,Cloudy,Day,NO,NO,NO,NO
+2012,Chicago White Sox,APR,18,13818,Wednesday,Baltimore Orioles,68,Cloudy,Night,NO,NO,NO,NO
+2012,New York Yankees,JUN,18,42709,Monday,Atlanta Braves,67,Cloudy,Night,NO,NO,NO,NO
+2012,Atlanta Braves,SEP,15,38763,Saturday,Washington Nationals,84,Cloudy,Day,NO,NO,NO,NO
+2012,Atlanta Braves,JUL,29,23726,Sunday,Philadelphia Phillies,90,Clear,Day,NO,NO,NO,NO
+2012,Colorado Rockies,JUN,25,40177,Monday,Washington Nationals,100,Cloudy,Night,NO,NO,NO,NO
+2012,Miami Marlins,AUG,31,23099,Friday,New York Mets,78,Dome,Night,NO,NO,NO,NO
+2012,New York Yankees,JUN,7,39891,Thursday,Tampa Bay Rays,70,Cloudy,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,JUL,25,44715,Wednesday,Milwaukee Brewers,80,Clear,Day,NO,NO,NO,NO
+2012,Pittsburgh Pirates,AUG,13,24670,Monday,Los Angeles Dodgers,80,Cloudy,Night,NO,NO,NO,NO
+2012,San Diego Padres,APR,11,16091,Wednesday,Arizona Diamondbacks,66,Cloudy,Night,NO,NO,NO,NO
+2012,Seattle Mariners,MAY,21,18672,Monday,Texas Rangers,60,Cloudy,Night,NO,NO,NO,NO
+2012,Miami Marlins,JUN,12,29326,Tuesday,Boston Red Sox,79,Cloudy,Night,NO,NO,NO,NO
+2012,San Francisco Giants,MAY,4,41082,Friday,Milwaukee Brewers,53,Clear,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,JUL,14,32517,Saturday,Cleveland Indians,79,Clear,Day,NO,NO,NO,NO
+2012,Atlanta Braves,AUG,17,33093,Friday,Los Angeles Dodgers,82,Cloudy,Night,NO,NO,YES,NO
+2012,Seattle Mariners,SEP,5,13037,Wednesday,Boston Red Sox,69,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,OCT,1,15009,Monday,Atlanta Braves,62,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,JUL,20,34228,Friday,Atlanta Braves,76,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago White Sox,JUN,2,26200,Saturday,Seattle Mariners,73,Cloudy,Day,NO,NO,NO,NO
+2012,Toronto Blue Jays,APR,30,21945,Monday,Texas Rangers,68,Dome,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,SEP,4,17652,Tuesday,New York Yankees,72,Dome,Night,NO,YES,NO,NO
+2012,St. Louis Cardinals,JUL,21,43424,Saturday,Chicago Cubs,93,Cloudy,Night,NO,NO,NO,NO
+2012,Cleveland Indians,SEP,18,10342,Tuesday,Minnesota Twins,59,Cloudy,Night,NO,NO,NO,NO
+2012,New York Yankees,MAY,21,39229,Monday,Kansas City Royals,61,Cloudy,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,JUL,4,17831,Wednesday,Kansas City Royals,91,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,AUG,5,28804,Sunday,San Francisco Giants,82,Clear,Day,NO,NO,NO,NO
+2012,Houston Astros,JUN,2,22991,Saturday,Cincinnati Reds,73,Dome,Night,NO,NO,NO,NO
+2012,Cleveland Indians,AUG,27,13018,Monday,Oakland Athletics,75,Cloudy,Night,NO,NO,NO,NO
+2012,Washington Nationals,SEP,7,28533,Friday,Miami Marlins,83,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,JUL,14,35151,Saturday,Philadelphia Phillies,91,Cloudy,Night,NO,YES,NO,NO
+2012,Toronto Blue Jays,APR,18,15828,Wednesday,Tampa Bay Rays,68,Dome,Night,NO,NO,NO,NO
+2012,San Diego Padres,AUG,27,20590,Monday,Atlanta Braves,71,Clear,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,MAY,18,40906,Friday,St. Louis Cardinals,64,Clear,Night,NO,NO,YES,NO
+2012,New York Mets,JUN,19,32587,Tuesday,Baltimore Orioles,71,Cloudy,Night,NO,YES,NO,NO
+2012,San Francisco Giants,MAY,15,41332,Tuesday,Colorado Rockies,54,Clear,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,SEP,2,18568,Sunday,Tampa Bay Rays,72,Clear,Day,NO,NO,NO,NO
+2012,Miami Marlins,SEP,19,25998,Wednesday,Atlanta Braves,80,Dome,Night,NO,NO,NO,YES
+2012,Toronto Blue Jays,JUN,11,18513,Monday,Washington Nationals,68,Dome,Night,NO,NO,NO,NO
+2012,Cleveland Indians,SEP,19,13519,Wednesday,Minnesota Twins,62,Clear,Night,NO,NO,NO,NO
+2012,Arizona Diamondbacks,JUL,2,19633,Monday,San Diego Padres,82,Dome,Night,NO,NO,NO,NO
+2012,Miami Marlins,AUG,13,23309,Monday,Philadelphia Phillies,79,Dome,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUL,13,29089,Friday,Boston Red Sox,72,Dome,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,SEP,18,15492,Tuesday,Milwaukee Brewers,61,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago White Sox,APR,17,11267,Tuesday,Baltimore Orioles,51,Clear,Night,NO,NO,NO,NO
+2012,New York Mets,JUL,3,42516,Tuesday,Philadelphia Phillies,84,Cloudy,Night,NO,NO,YES,NO
+2012,Minnesota Twins,JUN,16,37698,Saturday,Milwaukee Brewers,74,Cloudy,Day,NO,NO,NO,NO
+2012,Seattle Mariners,APR,22,19975,Sunday,Chicago White Sox,61,Clear,Day,NO,NO,NO,NO
+2012,Miami Marlins,AUG,29,24909,Wednesday,Washington Nationals,76,Dome,Night,NO,NO,NO,YES
+2012,St. Louis Cardinals,JUN,17,41680,Sunday,Kansas City Royals,83,Cloudy,Day,NO,NO,NO,NO
+2012,Los Angeles Dodgers,AUG,1,36596,Wednesday,Arizona Diamondbacks,79,Clear,Day,NO,NO,NO,NO
+2012,Oakland Athletics,SEP,3,20180,Monday,Los Angeles Angels,73,Clear,Day,NO,NO,NO,NO
+2012,Kansas City Royals,JUN,6,18386,Wednesday,Minnesota Twins,81,Clear,Night,NO,NO,NO,NO
+2012,San Diego Padres,SEP,16,22948,Sunday,Colorado Rockies,77,Clear,Day,NO,NO,NO,NO
+2012,Miami Marlins,APR,13,30169,Friday,Houston Astros,72,Dome,Night,NO,NO,NO,NO
+2012,Cincinnati Reds,MAY,23,20411,Wednesday,Atlanta Braves,78,Clear,Night,NO,NO,NO,NO
+2012,San Diego Padres,SEP,30,33407,Sunday,San Francisco Giants,76,Clear,Day,NO,NO,NO,NO
+2012,Cleveland Indians,MAY,7,10483,Monday,Chicago White Sox,57,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,JUL,8,37108,Sunday,Baltimore Orioles,79,Clear,Day,NO,NO,NO,NO
+2012,Philadelphia Phillies,APR,27,45261,Friday,Chicago Cubs,53,Cloudy,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,APR,23,36291,Monday,Houston Astros,66,Dome,Night,NO,NO,NO,NO
+2012,Philadelphia Phillies,SEP,23,43968,Sunday,Atlanta Braves,67,Clear,Day,NO,NO,NO,NO
+2012,Colorado Rockies,JUL,13,33346,Friday,Philadelphia Phillies,93,Cloudy,Night,NO,NO,NO,NO
+2012,Boston Red Sox,SEP,25,37045,Tuesday,Tampa Bay Rays,66,Cloudy,Night,NO,NO,NO,NO
+2012,St. Louis Cardinals,JUN,14,43464,Thursday,Chicago White Sox,87,Clear,Night,NO,NO,NO,NO
+2012,San Francisco Giants,JUN,27,42245,Wednesday,Los Angeles Dodgers,66,Clear,Day,NO,NO,NO,NO
+2012,Boston Red Sox,JUN,20,37362,Wednesday,Miami Marlins,96,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago Cubs,AUG,25,35296,Saturday,Colorado Rockies,90,Clear,Day,NO,NO,NO,NO
+2012,Cincinnati Reds,SEP,3,22487,Monday,Philadelphia Phillies,77,Cloudy,Day,NO,NO,NO,NO
+2012,San Francisco Giants,MAY,14,41254,Monday,Colorado Rockies,61,Clear,Night,NO,NO,NO,NO
+2012,Oakland Athletics,JUL,30,12564,Monday,Tampa Bay Rays,72,Clear,Night,NO,NO,NO,NO
+2012,Atlanta Braves,APR,18,17909,Wednesday,New York Mets,62,Rainy,Day,NO,NO,NO,NO
+2012,Kansas City Royals,AUG,16,14345,Thursday,Oakland Athletics,73,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,MAY,29,13735,Tuesday,Chicago White Sox,72,Dome,Night,NO,NO,NO,NO
+2012,Atlanta Braves,SEP,14,41797,Friday,Washington Nationals,79,Cloudy,Night,NO,NO,YES,NO
+2012,Atlanta Braves,JUN,10,20222,Sunday,Toronto Blue Jays,71,Cloudy,Day,NO,NO,NO,NO
+2012,San Diego Padres,JUN,20,23942,Wednesday,Texas Rangers,69,Clear,Night,NO,NO,NO,NO
+2012,Colorado Rockies,APR,15,26952,Sunday,Arizona Diamondbacks,48,Cloudy,Day,NO,YES,NO,NO
+2012,Kansas City Royals,AUG,28,13601,Tuesday,Detroit Tigers,94,Clear,Night,NO,NO,NO,NO
+2012,Atlanta Braves,APR,15,30831,Sunday,Milwaukee Brewers,75,Cloudy,Day,NO,NO,NO,NO
+2012,Atlanta Braves,APR,14,37408,Saturday,Milwaukee Brewers,75,Clear,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,JUN,1,29678,Friday,Boston Red Sox,68,Dome,Night,NO,NO,NO,NO
+2012,Los Angeles Angels,AUG,19,36789,Sunday,Tampa Bay Rays,92,Clear,Day,NO,NO,NO,NO
+2012,San Diego Padres,MAY,2,15786,Wednesday,Milwaukee Brewers,70,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,JUN,12,17334,Tuesday,New York Mets,72,Dome,Night,NO,NO,NO,NO
+2012,Oakland Athletics,MAY,23,23617,Wednesday,Los Angeles Angels,65,Clear,Day,NO,NO,NO,NO
+2012,Chicago Cubs,JUN,17,38531,Sunday,Boston Red Sox,84,Cloudy,Night,NO,NO,NO,NO
+2012,Tampa Bay Rays,SEP,21,14187,Friday,Toronto Blue Jays,72,Dome,Night,NO,YES,NO,NO
+2012,Chicago White Sox,JUN,5,23107,Tuesday,Toronto Blue Jays,58,Clear,Night,NO,NO,NO,NO
+2012,San Diego Padres,JUL,22,25198,Sunday,Colorado Rockies,73,Clear,Day,NO,NO,NO,NO
+2012,Oakland Athletics,JUL,17,15115,Tuesday,Texas Rangers,63,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,MAY,13,27517,Sunday,Houston Astros,62,Rainy,Day,NO,YES,NO,NO
+2012,Washington Nationals,SEP,6,22447,Thursday,Chicago Cubs,79,Clear,Night,NO,NO,NO,NO
+2012,Oakland Athletics,JUL,3,35067,Tuesday,Boston Red Sox,65,Clear,Night,NO,NO,YES,NO
+2012,Boston Red Sox,JUN,5,37181,Tuesday,Baltimore Orioles,55,Cloudy,Night,NO,NO,NO,NO
+2012,Los Angeles Dodgers,JUN,15,40432,Friday,Chicago White Sox,67,Clear,Night,NO,NO,YES,NO
+2012,San Diego Padres,AUG,20,20401,Monday,Pittsburgh Pirates,71,Clear,Night,NO,NO,NO,NO
+2012,Milwaukee Brewers,SEP,15,38108,Saturday,New York Mets,74,Cloudy,Night,NO,NO,NO,NO
+2012,Boston Red Sox,SEP,22,37570,Saturday,Baltimore Orioles,63,Cloudy,Day,NO,NO,NO,NO
+2012,Baltimore Orioles,APR,27,18297,Friday,Oakland Athletics,60,Clear,Night,NO,NO,NO,NO
+2012,Pittsburgh Pirates,AUG,27,16700,Monday,St. Louis Cardinals,75,Cloudy,Night,NO,NO,NO,NO
+2012,Detroit Tigers,JUN,15,41878,Friday,Colorado Rockies,83,Clear,Night,NO,NO,YES,NO
+2012,Washington Nationals,JUL,22,34917,Sunday,Atlanta Braves,79,Cloudy,Day,NO,YES,NO,NO
+2012,Chicago Cubs,JUL,27,40778,Friday,St. Louis Cardinals,77,Cloudy,Day,NO,NO,NO,NO
+2012,New York Mets,SEP,20,20010,Thursday,Philadelphia Phillies,66,Cloudy,Night,NO,NO,NO,NO
+2012,Oakland Athletics,JUL,21,28142,Saturday,New York Yankees,72,Clear,Night,NO,NO,NO,NO
+2012,Toronto Blue Jays,APR,14,28355,Saturday,Baltimore Orioles,68,Dome,Day,NO,NO,NO,NO
+2012,Atlanta Braves,MAY,30,28474,Wednesday,St. Louis Cardinals,89,Cloudy,Night,NO,NO,NO,NO
+2012,Chicago White Sox,JUN,24,26545,Sunday,Milwaukee Brewers,89,Cloudy,Day,NO,YES,NO,NO
