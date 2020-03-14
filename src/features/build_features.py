@@ -14,13 +14,11 @@ def preprocess(df):
         'shirt': promo_mapping,
         'fireworks': promo_mapping,
         'bobblehead': promo_mapping
-    }
-    ).rename(columns={
+    }).rename(columns={
         'day_night': 'day_game',
         'home_team': 'home',
         'opponent': 'away'
-    }
-    )
+    })
 
     return df
 
