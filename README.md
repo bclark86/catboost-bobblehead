@@ -14,7 +14,7 @@ Teams would like help from the MLB league office to create a better forecasting 
 
 ## Use App:
 
-Install libraries. The list includes dependencies and those used for jupyter lab. 
+Install libraries in a fresh environment. The list includes dependencies and those used for jupyter lab. 
 
 ```
 pip install requirements.txt
